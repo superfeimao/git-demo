@@ -8,3 +8,5 @@ hello cgm hello git!
 hello cgm hello git!
 hello cgm hello git! master test
 hello cgm hello git! hot-fix test
+
+我是GitHub最新代码哦
